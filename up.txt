@@ -1,0 +1,67 @@
+;aiu;
+
+[Update #3]
+Name = Stickrun Remake
+ProductVersion = 3.6.0.0
+URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
+Size = 25687311
+SHA256 = 85EE970DB5C37D80700CAA941F294085ED2446C116A1B3168FD77482A5DFF900
+MD5 = 2a4a9ad8e11d3a706dca9d2e42353bf9
+ServerFileName = Stickrun Remake.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
+Version = 3.6.0.0
+UpdatedApplications = Stickrun Remake[1.0-3.6]
+Feature = -Chat Fix
+Feature1 = -Hat Expansion
+
+[Update #2]
+Name = Stickrun Remake
+ProductVersion = 3.5.0.0
+URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
+Size = 25687311
+SHA256 = 85EE970DB5C37D80700CAA941F294085ED2446C116A1B3168FD77482A5DFF900
+MD5 = 2a4a9ad8e11d3a706dca9d2e42353bf9
+ServerFileName = Stickrun Remake.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
+Version = 3.5.0.0
+UpdatedApplications = Stickrun Remake[1.0-3.5]
+Description = Ver 3.5 Beat
+Feature = Added Beat bag
+Feature1 = Remove The Coming Soon In VIP
+BugFix = Few Bug Fixes
+
+[Update #1]
+Name = Stickrun Remake
+ProductVersion = 3.4.0.0
+URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
+Size = 25687311
+SHA256 = 85EE970DB5C37D80700CAA941F294085ED2446C116A1B3168FD77482A5DFF900
+MD5 = 2a4a9ad8e11d3a706dca9d2e42353bf9
+ServerFileName = Stickrun Remake.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
+Version = 3.4.0.0
+UpdatedApplications = Stickrun Remake[1.0-3.4]
+Description = Ver 3.4 Ex
+Feature = Expands Skin Inv
+
+[Update]
+Name = Stickrun Remake
+ProductVersion = 3.3.0.0
+URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
+Size = 25687311
+SHA256 = 85EE970DB5C37D80700CAA941F294085ED2446C116A1B3168FD77482A5DFF900
+MD5 = 2a4a9ad8e11d3a706dca9d2e42353bf9
+ServerFileName = Stickrun Remake.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
+Version = 3.3.0.0
+UpdatedApplications = Stickrun Remake[1.0-3.3]
+Description = Ver 3.3 The Crit
+Feature = VIP
+Feature1 = Supporter Skin
+Enhancement = Updater
+BugFix = 50_mem skin
+BugFix1 = angel skin
