@@ -1,12 +1,29 @@
 ;aiu;
 
+[Update #5]
+Name = Stickrun Remake
+ProductVersion = 3.7.0.0
+URL = https://github.com/Stickrun-Remake/SR-Resource/releases/download/Releases/Stickrun.Remake.exe
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
+ServerFileName = Stickrun Remake.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
+Version = 3.7.0.0
+UpdatedApplications = Stickrun Remake[1.0-3.7]
+Description = V3.7 Bugs?
+Feature = - Chat Fix I Think
+Feature1 = - Oni BDay?
+BugFix = - Fixed Some Broken Fonts
+
 [Update #4]
 Name = Stickrun Remake
 ProductVersion = 3.6.0.0
 URL = https://github.com/Stickrun-Remake/SR-Resource/releases/download/Releases/Stickrun.Remake.exe
-Size = 25694625
-SHA256 = 5D3840683A31B689F65A01CCC04A3C1D7E27CABAF2E654C5F0B773F80CD426E6
-MD5 = 008d507015706c8e54e42ac1642daa80
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
 ServerFileName = Stickrun Remake.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
@@ -21,9 +38,9 @@ BugFix = - Fixed Some Broken Fonts
 Name = Stickrun Remake
 ProductVersion = 3.6.0.0
 URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
-Size = 25694625
-SHA256 = 5D3840683A31B689F65A01CCC04A3C1D7E27CABAF2E654C5F0B773F80CD426E6
-MD5 = 008d507015706c8e54e42ac1642daa80
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
 ServerFileName = Stickrun Remake.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
@@ -36,9 +53,9 @@ Feature1 = -Hat Expansion
 Name = Stickrun Remake
 ProductVersion = 3.5.0.0
 URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
-Size = 25694625
-SHA256 = 5D3840683A31B689F65A01CCC04A3C1D7E27CABAF2E654C5F0B773F80CD426E6
-MD5 = 008d507015706c8e54e42ac1642daa80
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
 ServerFileName = Stickrun Remake.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
@@ -53,9 +70,9 @@ BugFix = Few Bug Fixes
 Name = Stickrun Remake
 ProductVersion = 3.4.0.0
 URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
-Size = 25694625
-SHA256 = 5D3840683A31B689F65A01CCC04A3C1D7E27CABAF2E654C5F0B773F80CD426E6
-MD5 = 008d507015706c8e54e42ac1642daa80
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
 ServerFileName = Stickrun Remake.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
@@ -68,9 +85,9 @@ Feature = Expands Skin Inv
 Name = Stickrun Remake
 ProductVersion = 3.3.0.0
 URL = https://firebasestorage.googleapis.com/v0/b/beatrix-core.appspot.com/o/Stickrun%20Remake.exe?alt=media&token=bf836162-d92d-46fd-99c0-ac0a6be8ab28
-Size = 25694625
-SHA256 = 5D3840683A31B689F65A01CCC04A3C1D7E27CABAF2E654C5F0B773F80CD426E6
-MD5 = 008d507015706c8e54e42ac1642daa80
+Size = 25694628
+SHA256 = C465A32D27B83C1D13F60EE3027534CF31A7F1E5B94C82E812AEE5FBABD686BA
+MD5 = f7d54a0336c82169fda3fdd89353ebd0
 ServerFileName = Stickrun Remake.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Beatrix Games\Stickrun Remake\Version
